@@ -1,0 +1,25 @@
+#Card_img_Before{
+    width: 400px;
+    height: 500px;
+    padding-left: 170px;
+}
+#Card_img_After{
+    width: 400px;
+    height: 500px;
+    padding-right: 175px;
+    padding-top: 10px;
+}
+#function{
+    padding: auto;
+}
+
+body {
+    background-color: #FFFFEE;
+    text-align: center;
+  }
+header{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    color: sandybrown;
+}
